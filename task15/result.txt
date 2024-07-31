@@ -1,0 +1,2 @@
+NAME             CLASS    HOSTS                    ADDRESS   PORTS   AGE
+my-app-ingress   <none>   mfayziev.nvrbckdown.uz             80      56s
